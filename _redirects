@@ -1,1 +1,9 @@
+# 解决 
 /api/tmdb/*  https://api.themoviedb.org/3/:splat  200!
+
+# 解决  
+/api/quantum/*  https://vidlink.pro/:splat  200!
+/api/nova/*  https://vidfast.pro/:splat  200!
+/api/movio/*  https://vidsrc.cc/:splat  200!
+/api/turbo/*  https://vidsrc.icu/:splat  200!
+/api/astro/*  https://hexa.su/:splat  200!
