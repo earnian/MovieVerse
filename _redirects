@@ -1,0 +1,1 @@
+/api/tmdb/*  https://api.themoviedb.org/3/:splat  200!
